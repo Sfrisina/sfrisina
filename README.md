@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Sal Frisina</h1>
+
+<h1 align="center">Hello , I'm Sal Frisina</h1>
 <h3 align="center">A passionate full-stack developer from Atlanta, Georgia</h3>
 
 - 🌱 I’m currently learning **TypeScript**
